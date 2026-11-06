@@ -1,0 +1,10 @@
+{
+  "slug": "galope",
+  "id": "galope-infinito",
+  "name": "Galope",
+  "version": "1.0.0",
+  "tag": "v1.0.0-distribution.20261106",
+  "download": "https://github.com/EoTutts/galope/releases/download/v1.0.0-distribution.20261106/galope-linux-arm64.zip",
+  "package_sha256": "aef64507f33f87d9e5d1c5f88fbd6148dd479d33f78773e1f2af1750739bcd05",
+  "package_bytes": 2778150
+}

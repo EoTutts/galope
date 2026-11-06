@@ -1,0 +1,14 @@
+{
+  "id": "galope-infinito",
+  "name": "Galope",
+  "description": "Corrida acessível a cavalo. Salte os obstáculos e ouça a estrada.",
+  "version": "1.0.0",
+  "contract": 1,
+  "runtime": "native",
+  "exec": "run.sh",
+  "languages": [
+    "pt-BR",
+    "en-US",
+    "es-ES"
+  ]
+}
