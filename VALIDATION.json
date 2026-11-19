@@ -12,5 +12,10 @@
   "package_sha256": "66c17ed2f102298daca99c51497f1bdf15eb1646fb9e3d1e93fc0451d5860ef3",
   "sdk_public_api": "unchanged from previous package (reflection comparison)",
   "controls": "passed; real SDK input dispatch with synthetic events",
-  "mechanics": "passed; jump, collisions, progression, dog, festival and sky"
+  "mechanics": "passed; jump, collisions, progression, dog, festival and sky",
+  "ci": {
+    "conclusion": "success",
+    "url": "https://github.com/EoTutts/galope/actions/runs/44599550982",
+    "environment": "Ubuntu; real AF_UNIX SSIP contract tests"
+  }
 }
