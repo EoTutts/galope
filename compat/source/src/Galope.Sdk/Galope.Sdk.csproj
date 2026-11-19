@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../../vendor/r36s-a11y-sdk/R36S.A11y/R36S.A11y.csproj" />
+    <PackageReference Include="NVorbis" Version="0.10.5" />
+    <Compile Include="../Galope/*.cs" Exclude="../Galope/Program.cs" Link="Core/%(Filename)%(Extension)" />
+  </ItemGroup>
+</Project>

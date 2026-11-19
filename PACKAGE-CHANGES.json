@@ -1,0 +1,26 @@
+{
+  "sha256": "66c17ed2f102298daca99c51497f1bdf15eb1646fb9e3d1e93fc0451d5860ef3",
+  "bytes": 2782449,
+  "changed_files": [
+    {
+      "path": "engine/Galope.Sdk.dll",
+      "before": "49587ad8f28661ac5770674f01e6ba293a98e5afa64b52c04284be3982581ced",
+      "after": "5ac1b7224ad276eabbd267f5a09b31351c1065cbe0f2bcdbe609db5e6b0b05b9"
+    },
+    {
+      "path": "engine/R36S.A11y.dll",
+      "before": "7edd57b20f58af7d55dbed6be4001ebccd283f3fe98dcf49b8c3e08d076aaadd",
+      "after": "512e2b6f88ef82c26a6111b8fac31f92abf28aa7998e0f575ba5eda5e9b4f072"
+    },
+    {
+      "path": "game.json",
+      "before": "ed69ac4cca67eda82c96d5010a1f754f62b9d93fec8109f7531a7a4e2ca254d7",
+      "after": "c1fb18221fbd1c212e6bc6d80691936e230ba1e12afe432e8f2926043f052ac5"
+    },
+    {
+      "path": "COMPATIBILITY.md",
+      "before": null,
+      "after": "c4001ebdf04ac93a2359a8b789171871d70f9d40b8908108a632634ea1e9618b"
+    }
+  ]
+}

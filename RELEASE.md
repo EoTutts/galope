@@ -2,11 +2,11 @@
 
 Corrida sem fim a cavalo: salte obstáculos e escape dos cães, com pistas sonoras posicionais, velocidade crescente e gráficos opcionais.
 
-Este é o repositório de distribuição dos pacotes preparados no projeto R36S. A versão interna do jogo é **1.0.0**; a release de distribuição é de 06/11/2026.
+Este é o repositório de distribuição dos pacotes preparados no projeto R36S. A versão interna do jogo é **1.0.1**; a release de distribuição é de 19/11/2026.
 
 ## Baixar
 
-[Pacote R36S ARM64](https://github.com/EoTutts/galope/releases/download/v1.0.0-distribution.20261106/galope-linux-arm64.zip) · [Release e SHA-256](https://github.com/EoTutts/galope/releases/tag/v1.0.0-distribution.20261106)
+[Pacote R36S ARM64](https://github.com/EoTutts/galope/releases/download/v1.0.1-luma.20261119/galope-linux-arm64.zip) · [Release e SHA-256](https://github.com/EoTutts/galope/releases/tag/v1.0.1-luma.20261119)
 
 ## Requisitos e estado
 
@@ -27,3 +27,7 @@ O pacote foi conferido quanto ao manifesto, executável e SHA-256. Não acompanh
 ## Créditos e licenças
 
 Sons e recursos têm procedências próprias. A licença da SDK incluída não concede uma licença geral aos recursos do jogo. Os avisos de terceiros presentes no pacote devem ser mantidos. Não se atribui uma licença única a todo o conteúdo.
+
+## Correções de compatibilidade
+
+A revisão de 19/11/2026 corrige o uso da configuração de fala do Luma. [Causa, código, testes e reprodução](COMPATIBILITY.md). A validação física no dArkOS continua pendente.

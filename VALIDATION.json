@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-19",
+  "physical_darkos_test": "pending; no access to friend's device",
+  "speech": {
+    "passed": true,
+    "checks": 11,
+    "transport": "real AF_UNIX socket to fake SSIP server"
+  },
+  "archive_crc": "passed",
+  "save_files_included": false,
+  "base_sha256": "aef64507f33f87d9e5d1c5f88fbd6148dd479d33f78773e1f2af1750739bcd05",
+  "package_sha256": "66c17ed2f102298daca99c51497f1bdf15eb1646fb9e3d1e93fc0451d5860ef3",
+  "sdk_public_api": "unchanged from previous package (reflection comparison)",
+  "controls": "passed; real SDK input dispatch with synthetic events",
+  "mechanics": "passed; jump, collisions, progression, dog, festival and sky",
+  "ci": {
+    "conclusion": "success",
+    "url": "https://github.com/EoTutts/galope/actions/runs/44599550982",
+    "environment": "Ubuntu; real AF_UNIX SSIP contract tests"
+  }
+}
